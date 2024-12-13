@@ -1,0 +1,7 @@
+Bitcoin price prediction using machine learning
+
+Algorithm / Model Used: Random Forest Classifier
+
+Accuracy score: 0.9995
+
+
